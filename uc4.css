@@ -1,0 +1,107 @@
+@charset "utf-8";
+body
+{
+padding: 10px
+}
+.play1 
+{
+    color: gold;
+    background-color: rgba(15, 15, 16, 0.748);
+}
+.may2:hover {
+    border: 4px solid gold;
+    transform: scale(1.1);
+    }
+.may1
+{
+    text-align: center;
+    text-decoration:underline;
+}
+#play2
+{
+    padding: 3px;
+}
+.may2
+{
+    padding:0 7px; 
+    width: 22%;
+    display:inline-block;
+    transition: 1s;
+}
+.may3 img
+{
+    width: 100%;
+    height: auto;
+}
+.may5
+{
+    width: 26%;
+    height: auto;
+    padding:0 6px; 
+    display: inline-block;
+    transition: 1s;
+}
+.may5:hover
+{
+    border: 4px solid gold;
+    transform: scale(1.1);
+}
+.may4
+{
+    padding:10px;
+    text-align: center;
+}
+#play3
+{
+    padding:0 7px; 
+    width: 24.5%;
+    display:inline-block;
+    transition: 1s;
+}
+#play3:hover
+{
+    border: 4px solid gold;
+    transform: scale(1.1);   
+}
+#play4
+{
+    width: 23%;
+    height: auto;
+    padding:0 6px; 
+    display: inline-block;
+    transition: 1s;
+}
+#play4:hover
+{
+    border: 4px solid gold;
+    transform: scale(1.1);    
+}
+#play5
+{
+    width: 25%;
+    height: auto;
+    padding:0 6px; 
+    display: inline-block; 
+    transition: 1s;
+}
+#play5:hover
+{
+    border: 4px solid gold;
+    transform: scale(1.1);    
+}
+.may6
+{
+    padding:0 7px; 
+    width: 21%;
+    display:inline-block;
+    transition: 1s;
+}
+.may6:hover
+{
+    border: 4px solid gold;
+    transform: scale(1.1);    
+}
+.may7
+{
+    font-size: 130%;
+}
