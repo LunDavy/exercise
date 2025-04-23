@@ -23,7 +23,7 @@ padding: 10px
 }
 .may2
 {
-    padding:0 7px; 
+    padding:0 5px; 
     width: 22%;
     display:inline-block;
     transition: 1s;
@@ -37,7 +37,7 @@ padding: 10px
 {
     width: 26%;
     height: auto;
-    padding:0 6px; 
+    padding:0 5px; 
     display: inline-block;
     transition: 1s;
 }
@@ -53,7 +53,7 @@ padding: 10px
 }
 #play3
 {
-    padding:0 7px; 
+    padding:0 5px; 
     width: 24.5%;
     display:inline-block;
     transition: 1s;
@@ -67,7 +67,7 @@ padding: 10px
 {
     width: 23%;
     height: auto;
-    padding:0 6px; 
+    padding:0 5px; 
     display: inline-block;
     transition: 1s;
 }
@@ -80,7 +80,7 @@ padding: 10px
 {
     width: 25%;
     height: auto;
-    padding:0 6px; 
+    padding:0 5px; 
     display: inline-block; 
     transition: 1s;
 }
@@ -91,7 +91,7 @@ padding: 10px
 }
 .may6
 {
-    padding:0 7px; 
+    padding:0 5px; 
     width: 21%;
     display:inline-block;
     transition: 1s;
@@ -103,5 +103,5 @@ padding: 10px
 }
 .may7
 {
-    font-size: 130%;
+    font-size: 110%;
 }
